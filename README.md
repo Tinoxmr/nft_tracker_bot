@@ -9,6 +9,12 @@ Built using Telegram API and opensea.io API
 3. Get updates about last bids on a specifc token
 4. Support for any desired token
 
+### Docs
+- https://docs.opensea.io/reference/api-overview  
+- https://python-telegram-bot.readthedocs.io/en/stable/telegram.html  
+---
+
+by
 tinoxmr@protonmail.com
 
 _NFT Summer.jpeg_
