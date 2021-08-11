@@ -12,6 +12,11 @@ Built using Telegram API and opensea.io API
 ### Docs
 - https://docs.opensea.io/reference/api-overview  
 - https://python-telegram-bot.readthedocs.io/en/stable/telegram.html  
+
+### Dependencies
+- telegram (0.0.1)
+- python-telegram-bot (13.7)
+- requests (2.26.0)
 ---
 
 by
